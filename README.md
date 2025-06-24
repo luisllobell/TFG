@@ -57,9 +57,9 @@ Dataset:
 
 Se han utilizado principalmente dos fuentes de datos:
 
-FER-2013: Dataset estándar de reconocimiento de emociones faciales con 7 emociones (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral).
+datos.tfg.zip(https://1drv.ms/u/c/dc372792e6b83445/EZUE06s2HNFCpKqNcPGpo_ABmZRuMlj7siU1KzVDu-tf8g?e=vxf1Hh): Dataset estándar de reconocimiento de emociones faciales con 6 emociones (Angry, Fear, Happy, Sad, Surprise, Neutral).
 
-Frames2.zip: Imágenes extraídas de vídeos reales (video casero y vídeo final). Estas imágenes se han recortado automáticamente para quedarse solo con el rostro usando cascadas Haar de OpenCV.
+Frames2.zip(https://1drv.ms/u/c/dc372792e6b83445/EUPvdobCISlDjDfc89YO54IB0fjXQOJk-sIeeWvcC1JPrQ?e=OLFPZy): Imágenes extraídas de vídeos reales (video casero y vídeo final). Estas imágenes se han recortado automáticamente para quedarse solo con el rostro usando cascadas Haar de OpenCV.
 
 Las imágenes han sido organizadas en carpetas por emoción (con nombres en español) para facilitar el entrenamiento.
 
